@@ -1,0 +1,303 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* _5_puzzleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 312}}";
+			sepNavSelRange = "{463, 0}";
+			sepNavVisRange = "{30, 457}";
+		};
+	};
+	1D3623250D0F684500981E51 /* _5_puzzleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{607, 0}";
+			sepNavVisRange = "{1871, 486}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* 15 puzzle */ = {
+		activeExec = 0;
+		executables = (
+			50BE8DEE1299726800ED7A5B /* 15 puzzle */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* _5_puzzleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {864, 1066}}";
+			sepNavSelRange = "{1233, 0}";
+			sepNavVisRange = "{813, 1528}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* _5_puzzleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1685, 3848}}";
+			sepNavSelRange = "{6725, 0}";
+			sepNavVisRange = "{4136, 1767}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 50BE8DEE1299726800ED7A5B /* 15 puzzle */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* 15 puzzle */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* 15 puzzle */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 50BE8DFF1299728800ED7A5B /* Code sense */;
+		executables = (
+			50BE8DEE1299726800ED7A5B /* 15 puzzle */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					793,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					499,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313862977;
+			PBXWorkspaceStateSaveDate = 313862977;
+		};
+		perUserProjectItems = {
+			50119EC412A32ED9009D1382 /* PBXBookmark */ = 50119EC412A32ED9009D1382 /* PBXBookmark */;
+			50119F2512A33499009D1382 /* PBXTextBookmark */ = 50119F2512A33499009D1382 /* PBXTextBookmark */;
+			50119F4312A335AC009D1382 /* PBXTextBookmark */ = 50119F4312A335AC009D1382 /* PBXTextBookmark */;
+			5026051812A5E14500B70F83 /* PBXTextBookmark */ = 5026051812A5E14500B70F83 /* PBXTextBookmark */;
+			5026053712A5E1FC00B70F83 /* PlistBookmark */ = 5026053712A5E1FC00B70F83 /* PlistBookmark */;
+			5026054212A5E21100B70F83 /* PBXTextBookmark */ = 5026054212A5E21100B70F83 /* PBXTextBookmark */;
+			504C2A3712A87CBD00AE1598 /* PBXBookmark */ = 504C2A3712A87CBD00AE1598 /* PBXBookmark */;
+			504C2A3812A87CBD00AE1598 /* PBXBookmark */ = 504C2A3812A87CBD00AE1598 /* PBXBookmark */;
+			504C2A3912A87CBD00AE1598 /* PBXBookmark */ = 504C2A3912A87CBD00AE1598 /* PBXBookmark */;
+			504C2A7012A8856000AE1598 /* PBXTextBookmark */ = 504C2A7012A8856000AE1598 /* PBXTextBookmark */;
+			508D7E9412A6E950000337F5 /* PBXTextBookmark */ = 508D7E9412A6E950000337F5 /* PBXTextBookmark */;
+			50A055D712B52B55008A151D /* PBXTextBookmark */ = 50A055D712B52B55008A151D /* PBXTextBookmark */;
+			50A0563712B52D0F008A151D /* PBXTextBookmark */ = 50A0563712B52D0F008A151D /* PBXTextBookmark */;
+			50A0563812B52D0F008A151D /* PBXTextBookmark */ = 50A0563812B52D0F008A151D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 50BE8DFE1299728800ED7A5B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	50119E0F12A30893009D1382 /* MainMenuViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 281}}";
+			sepNavSelRange = "{307, 0}";
+			sepNavVisRange = "{0, 352}";
+		};
+	};
+	50119E1012A30893009D1382 /* MainMenuViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 819}}";
+			sepNavSelRange = "{349, 0}";
+			sepNavVisRange = "{3, 668}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	50119EC412A32ED9009D1382 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 50C6895F12A1B2A100AF8347 /* buttonunselected.png */;
+	};
+	50119F2512A33499009D1382 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50119E0F12A30893009D1382 /* MainMenuViewController.h */;
+		name = "MainMenuViewController.h: 14";
+		rLen = 0;
+		rLoc = 307;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 0;
+	};
+	50119F4312A335AC009D1382 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50119E1012A30893009D1382 /* MainMenuViewController.m */;
+		name = "MainMenuViewController.m: 18";
+		rLen = 0;
+		rLoc = 349;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 3;
+	};
+	5026051812A5E14500B70F83 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50BE8E0A1299746700ED7A5B /* PuzzleBrain.h */;
+		name = "PuzzleBrain.h: 14";
+		rLen = 0;
+		rLoc = 237;
+		rType = 0;
+		vrLen = 309;
+		vrLoc = 0;
+	};
+	5026053712A5E1FC00B70F83 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* _5_puzzle-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/PatricksFolder/Cocos2d/15 puzzle/_5_puzzle-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	5026054212A5E21100B70F83 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* _5_puzzleAppDelegate.h */;
+		name = "_5_puzzleAppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 463;
+		rType = 0;
+		vrLen = 457;
+		vrLoc = 30;
+	};
+	504C2A3712A87CBD00AE1598 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 50398C0A12A2ADAE0007DE26 /* sbuttonunselected.png */;
+	};
+	504C2A3812A87CBD00AE1598 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 504C2A2F12A87B8700AE1598 /* sbuttonselected.png */;
+	};
+	504C2A3912A87CBD00AE1598 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 504C2A3112A87BB800AE1598 /* buttonselected.png */;
+	};
+	504C2A7012A8856000AE1598 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* _5_puzzleViewController.h */;
+		name = "_5_puzzleViewController.h: 52";
+		rLen = 0;
+		rLoc = 1233;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 813;
+	};
+	508D7E9412A6E950000337F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* _5_puzzleAppDelegate.m */;
+		name = "_5_puzzleAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 607;
+		rType = 0;
+		vrLen = 486;
+		vrLoc = 1871;
+	};
+	50A055D712B52B55008A151D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50BE8E0B1299746700ED7A5B /* PuzzleBrain.m */;
+		name = "PuzzleBrain.m: 30";
+		rLen = 0;
+		rLoc = 875;
+		rType = 0;
+		vrLen = 1107;
+		vrLoc = 0;
+	};
+	50A0563712B52D0F008A151D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* _5_puzzleViewController.m */;
+		name = "_5_puzzleViewController.m: 188";
+		rLen = 0;
+		rLoc = 6725;
+		rType = 0;
+		vrLen = 1767;
+		vrLoc = 4136;
+	};
+	50A0563812B52D0F008A151D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50BE8E0B1299746700ED7A5B /* PuzzleBrain.m */;
+		name = "PuzzleBrain.m: 22";
+		rLen = 0;
+		rLoc = 613;
+		rType = 0;
+		vrLen = 1107;
+		vrLoc = 0;
+	};
+	50BE8DEE1299726800ED7A5B /* 15 puzzle */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "15 puzzle";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	50BE8DFE1299728800ED7A5B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	50BE8DFF1299728800ED7A5B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	50BE8E0A1299746700ED7A5B /* PuzzleBrain.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 260}}";
+			sepNavSelRange = "{237, 0}";
+			sepNavVisRange = "{0, 309}";
+		};
+	};
+	50BE8E0B1299746700ED7A5B /* PuzzleBrain.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 571}}";
+			sepNavSelRange = "{613, 0}";
+			sepNavVisRange = "{0, 1107}";
+		};
+	};
+	8D1107310486CEB800E47090 /* _5_puzzle-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+}
